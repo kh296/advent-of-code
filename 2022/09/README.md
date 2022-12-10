@@ -4,5 +4,5 @@ Solutions for Advent of Code 2022 day 09:
 Usage:
 ```
 make
-./bin/08 ./data/input.txt
+./bin/09 ./data/input.txt
 ```
