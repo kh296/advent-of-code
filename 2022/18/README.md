@@ -1,5 +1,5 @@
-Solutions for Advent of Code 1822 day 18:  
-[https://adventofcode.com/1822/day/18](https://adventofcode.com/1822/day/18)
+Solutions for Advent of Code 2022 day 18:  
+[https://adventofcode.com/2022/day/18](https://adventofcode.com/2022/day/18)
 
 Usage:
 ```
