@@ -1,0 +1,8 @@
+Solutions for Advent of Code 1822 day 18:  
+[https://adventofcode.com/1822/day/18](https://adventofcode.com/1822/day/18)
+
+Usage:
+```
+make
+./bin/18 ./data/input.txt
+```
